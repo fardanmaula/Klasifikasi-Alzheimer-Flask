@@ -1,0 +1,23 @@
+Tutorial Penggunaan Aplikasi
+
+1. Membuka CMD
+
+2. Membuka file project dengan cmd
+
+3. Install modul yang diperlukan (pip install nama_modul)
+tensorflow 
+Keras 
+numpy 
+pandas
+imutils
+sklearn
+matplotlib 
+os
+seaborn
+
+4. Jika sudah terinstall, buka aplikasi dengan mengetikkan "python apps.py"
+
+5. Setelah proses selesai copykan alamat http pada line terakhir
+contoh:  * Running on http://127.0.0.1:5000/ (Press CTRL+C to quit)
+
+6. Program siap dijalankan
